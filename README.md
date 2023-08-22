@@ -48,6 +48,10 @@ Follow these steps to get started with the project:
 
 - You can customize the project by experimenting with different preprocessing techniques for better OCR results, adjusting the language model's parameters, or enhancing the user interface.
 
+## Gradio UI
+
+![Alt text](./resources/snap.png?raw=true "Gradio UI")
+
 ## Note
 
 - Keep in mind that OCR and language model results may not always be accurate. Preprocessing and error handling can be added to improve the overall reliability of the project.
